@@ -1,1 +1,1 @@
-Efficient way to randomize episodes of Friends on Netflix
+Efficient way to randomize season and episodes of Friends on Netflix
